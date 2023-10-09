@@ -2,6 +2,7 @@ package lld.parkinglot;
 
 
 import java.util.HashMap;
+import java.util.Objects;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,14 +12,14 @@ public class Main {
 //
 //        Vehicle car=new Car();
 //        Vehicle car2=new Car();
-        System.out.println(15 * (1+ 0*1.0D/100));
-        if(15 * (1+ 0*1.0D/100) == 15){
-            System.out.println(15 *  (1+ 2*1.0D/100));
-            System.out.println(Math.round(15 * (1+ 2*1.0D/100)));
-            System.out.println("if");
-        }else{
-            System.out.println("else");
-        }
+//        System.out.println(15 * (1+ 0*1.0D/100));
+//        if(15 * (1+ 0*1.0D/100) == 15){
+//            System.out.println(15 *  (1+ 2*1.0D/100));
+//            System.out.println(Math.round(15 * (1+ 2*1.0D/100)));
+//            System.out.println("if");
+//        }else{
+//            System.out.println("else");
+//        }
 
 //        HashMap<Integer,String>hm=new HashMap<>();
 //
@@ -38,6 +39,12 @@ public class Main {
 
 //        parkingSlotService.parkVehicle(car);
 //        parkingSlotService.parkVehicle(car2);
+
+        if (1696522856000 <= 1696091885013) {
+
+            System.out.println("inside");
+        }
+        System.out.println("outside");
 
     }
 }

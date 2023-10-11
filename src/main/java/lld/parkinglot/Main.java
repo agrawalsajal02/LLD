@@ -40,10 +40,10 @@ public class Main {
 //        parkingSlotService.parkVehicle(car);
 //        parkingSlotService.parkVehicle(car2);
 
-        if (1696522856000 <= 1696091885013) {
-
-            System.out.println("inside");
-        }
+//        if (1696522856000 <= 1696091885013) {
+//
+//            System.out.println("inside");
+//        }
         System.out.println("outside");
 
     }

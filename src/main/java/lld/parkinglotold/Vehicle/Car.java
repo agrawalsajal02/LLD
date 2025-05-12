@@ -1,15 +1,14 @@
-package lld.parkinglot.Vehicle;
+package lld.parkinglotold.Vehicle;
 
 import lombok.Getter;
 import lombok.Setter;
 
 @Getter
 @Setter
-public class Truck implements Vehicle{
-    public static final String TYPE="Truck";
+public class Car implements Vehicle{
+    public static final String TYPE="CAR";
     private String registrationNumber;
     private String color;
-
     @Override
     public String getVehicleType() {
         return TYPE;

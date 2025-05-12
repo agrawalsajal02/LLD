@@ -1,8 +1,5 @@
-package lld.parkinglot;
+package lld.parkinglotold;
 
-
-import java.util.HashMap;
-import java.util.Objects;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,10 +1,10 @@
-package lld.parkinglot;
+package lld.parkinglotold;
 
 
-import lld.parkinglot.Vehicle.Vehicle;
-import lld.parkinglot.entity.Floor;
-import lld.parkinglot.entity.ParkingLot;
-import lld.parkinglot.entity.ParkingSlot;
+import lld.parkinglotold.Vehicle.Vehicle;
+import lld.parkinglotold.entity.Floor;
+import lld.parkinglotold.entity.ParkingLot;
+import lld.parkinglotold.entity.ParkingSlot;
 import lombok.Getter;
 
 

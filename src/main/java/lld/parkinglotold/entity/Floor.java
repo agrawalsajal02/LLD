@@ -1,4 +1,4 @@
-package lld.parkinglot.entity;
+package lld.parkinglotold.entity;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -13,7 +13,7 @@ public class ElevatorCreator {
         ElevatorController controller1 = new ElevatorController(elevatorCar1);
 
         ElevatorCar elevatorCar2 = new ElevatorCar();
-        elevatorCar1.id =2;
+        elevatorCar2.id =2;
         ElevatorController controller2 = new ElevatorController(elevatorCar2);
 
         elevatorControllerList.add(controller1);

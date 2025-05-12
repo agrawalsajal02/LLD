@@ -1,4 +1,4 @@
-package lld.parkinglot.Vehicle;
+package lld.parkinglotold.Vehicle;
 
 public interface Vehicle {
     String getVehicleType();

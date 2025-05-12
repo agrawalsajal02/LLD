@@ -1,9 +1,9 @@
-package lld.parkinglot.entity;
+package lld.parkinglotold.entity;
 
 
-import lld.parkinglot.Vehicle.Bike;
-import lld.parkinglot.Vehicle.Car;
-import lld.parkinglot.Vehicle.Truck;
+import lld.parkinglotold.Vehicle.Bike;
+import lld.parkinglotold.Vehicle.Car;
+import lld.parkinglotold.Vehicle.Truck;
 import lombok.Getter;
 import lombok.Setter;
 

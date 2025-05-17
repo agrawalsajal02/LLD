@@ -19,3 +19,12 @@ public abstract class CashWithdrawProcessor {
         }
     }
 }
+
+
+//        | Aspect                     | Decorator                   | Chain of Responsibility    |
+//        | -------------------------- | --------------------------- | -------------------------- |
+//        | **Goal**                   | Add behavior dynamically    | Pass request until handled |
+//        | **Flow**                   | Always calls wrapped object | May stop at any handler    |
+//        | **Client aware of chain?** | Yes                         | No                         |
+//        | **Behavior extension**     | Yes                         | No, just passing logic     |
+//
